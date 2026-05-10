@@ -27,8 +27,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="5.3489583"
-     inkscape:cx="-21.406037"
-     inkscape:cy="55.150925"
+     inkscape:cx="32.342746"
+     inkscape:cy="56.74002"
      inkscape:current-layer="svg2408"
      inkscape:window-width="2560"
      inkscape:window-height="1372"
@@ -107,11 +107,11 @@
          offset="1" /></linearGradient><linearGradient
        id="linearGradient3700"><stop
          id="stop3702"
-         style="stop-color:#522bb6;stop-opacity:1;"
-         offset="0.03826435" /><stop
+         style="stop-color:#714dc7;stop-opacity:1;"
+         offset="0.1526306" /><stop
          id="stop3704"
-         style="stop-color:#9191dc;stop-opacity:1;"
-         offset="0.8046515" /></linearGradient><filter
+         style="stop-color:#aeaee1;stop-opacity:1;"
+         offset="0.94265747" /></linearGradient><filter
        color-interpolation-filters="sRGB"
        id="filter3174"
        x="-0.047720931"
