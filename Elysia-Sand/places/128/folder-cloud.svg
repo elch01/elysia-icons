@@ -31,8 +31,8 @@
     </linearGradient>
     <linearGradient inkscape:collect="always" xlink:href="#linearGradient4632-0-6-4-9" id="linearGradient8211-5" x1="-91" y1="43.999817" x2="-91" y2="119.05979" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1,0,0,1.0266674,147,-70.186593)" />
     <linearGradient id="linearGradient4632-0-6-4-9">
-      <stop style="stop-color:#9ed8c7;stop-opacity:1;" offset="0" id="stop4634-4-4-7-0" />
-      <stop style="stop-color:#238576;stop-opacity:1;" offset="1" id="stop4636-3-1-5-1" />
+      <stop style="stop-color:#e0cea4;stop-opacity:1;" offset="0" id="stop4634-4-4-7-0" />
+      <stop style="stop-color:#b38e37;stop-opacity:1;" offset="1" id="stop4636-3-1-5-1" />
     </linearGradient>
     <linearGradient x1="302.85715" y1="366.64789" x2="302.85715" y2="609.50507" id="linearGradient2484-9" xlink:href="#linearGradient5048-585-93" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.2134205,0,0,0.06641689,-13.147881,75.518568)" />
     <linearGradient id="linearGradient5048-585-93">
@@ -135,8 +135,8 @@
     </linearGradient>
     <radialGradient gradientTransform="matrix(4.1712212,-2.5183476e-7,1.6467508e-7,2.688962,-229.83186,22.814774)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient7012-661-145-733-759-865-745" id="radialGradient2568" fy="14.113381" fx="63.969177" r="23.097054" cy="14.113381" cx="63.969177" />
     <linearGradient id="linearGradient7012-661-145-733-759-865-745">
-      <stop offset="0" style="stop-color:#9ed8c7;stop-opacity:1" id="stop2699" />
-      <stop offset="1" style="stop-color:#238576;stop-opacity:1" id="stop2701" />
+      <stop offset="0" style="stop-color:#e0cea4;stop-opacity:1" id="stop2699" />
+      <stop offset="1" style="stop-color:#b38e37;stop-opacity:1" id="stop2701" />
     </linearGradient>
     <linearGradient gradientTransform="matrix(2.6658408,0,0,2.6469079,-143.33284,0.950492)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3390" id="linearGradient2570" y2="7.6327758" x2="82.453476" y1="45.114193" x1="82.453476" />
     <linearGradient id="linearGradient3390">
