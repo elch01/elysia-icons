@@ -1,5 +1,5 @@
 # Elysia Icons
-<img width="92" height="90" alt="image" src="https://github.com/user-attachments/assets/0eb890ba-95fd-4722-b16a-114542629090" />
+<img width="962" height="776" alt="image" src="https://github.com/user-attachments/assets/55084edc-6b8d-4731-8f49-930b662afc9e" />
 <br/><br/>
 
 > Icons worthy of Elysium
