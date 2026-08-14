@@ -2,14 +2,36 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    version="1.0"
    width="96"
    height="96"
    id="svg2408"
-   style="display:inline">
+   style="display:inline"
+   sodipodi:docname="system-shutdown.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="5.0885417"
+     inkscape:cx="10.415558"
+     inkscape:cy="39.991812"
+     inkscape:window-width="1990"
+     inkscape:window-height="1223"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2408" />
   <defs
      id="defs2410">
     <linearGradient
@@ -64,7 +86,11 @@
     </linearGradient>
     <filter
        color-interpolation-filters="sRGB"
-       id="filter3174">
+       id="filter3174"
+       x="-0.047720931"
+       y="-0.048282354"
+       width="1.0954419"
+       height="1.0965647">
       <feGaussianBlur
          id="feGaussianBlur3176"
          stdDeviation="1.71" />
@@ -125,7 +151,11 @@
     </clipPath>
     <filter
        color-interpolation-filters="sRGB"
-       id="filter3657">
+       id="filter3657"
+       x="-0.035076923"
+       y="-0.035076923"
+       width="1.0701538"
+       height="1.0701538">
       <feGaussianBlur
          id="feGaussianBlur3659"
          stdDeviation="1.14" />
@@ -340,10 +370,6 @@
        d="M 48,24 C 34.745166,24 24,34.745166 24,48 24,61.254834 34.745166,72 48,72 61.254834,72 72,61.254834 72,48 72,34.745166 61.254834,24 48,24 z m -2.0625,6.0625 4,0 0,14 -4,0 0,-14 z m 6,4.625 c 5.78592,1.70283 10,7.10037 10,13.4375 0,7.7024 -6.2351,13.9375 -13.9375,13.9375 -7.7024,0 -13.9375,-6.2351 -13.9375,-13.9375 0,-6.29241 4.14434,-11.63299 9.875,-13.375 l 0,4.25 c -3.474746,1.55994 -5.875,5.07862 -5.875,9.125 0,5.49326 4.444238,9.9375 9.9375,9.9375 5.493262,0 9.9375,-4.44424 9.9375,-9.9375 0,-4.09542 -2.466506,-7.65631 -6,-9.1875 l 0,-4.25 z"
        id="path2914"
        style="fill:url(#linearGradient3722);fill-opacity:1;stroke:none" />
-    <path
-       d="m 114.04688,48.109375 c 0,7.7024 6.26635,13.9375 13.96875,13.9375 7.70239,0 13.9375,-6.2351 13.9375,-13.9375 0,-6.33713 -4.21408,-11.70342 -10,-13.40625 l 0,4.25 c 3.53349,1.53119 6,5.06083 6,9.15625 0,5.49326 -4.44424,9.9375 -9.9375,9.9375 -5.49327,0 -9.96875,-4.44424 -9.96875,-9.9375 0,-4.04638 2.4315,-7.53381 5.90625,-9.09375 l 0,-4.28125 c -5.73066,1.74201 -9.90625,7.08259 -9.90625,13.375 z m 11.90625,-16.03125 0,9.96875 4,0 0,-9.96875 -4,0 z"
-       id="path2939"
-       style="opacity:0.8;fill:url(#linearGradient2941);fill-opacity:1;stroke:none;display:inline" />
     <path
        d="m 48,24 c -13.254834,0 -24,10.745166 -24,24 0,0.165582 -0.0033,0.335217 0,0.5 C 24.263839,35.473936 34.910748,25 48,25 61.089252,25 71.736161,35.473936 72,48.5 72.003338,48.335217 72,48.165582 72,48 72,34.745166 61.254834,24 48,24 z m 3.9375,14.9375 0,1 c 3.312651,1.435491 5.684832,4.666159 5.96875,8.4375 0.002,-0.08306 0.03125,-0.166445 0.03125,-0.25 0,-4.09542 -2.466506,-7.65631 -6,-9.1875 z m -8,0.0625 c -3.474746,1.55994 -5.875,5.07862 -5.875,9.125 0,0.08355 0.02921,0.166942 0.03125,0.25 0.276425,-3.726401 2.586176,-6.912556 5.84375,-8.375 l 0,-1 z m 2,5.0625 0,1 4,0 0,-1 -4,0 z m -11.84375,4.625 c -0.0046,0.147845 -0.03125,0.288554 -0.03125,0.4375 0,7.7024 6.2351,13.9375 13.9375,13.9375 7.7024,0 13.9375,-6.2351 13.9375,-13.9375 0,-0.146065 -0.02681,-0.292467 -0.03125,-0.4375 -0.294886,7.441092 -6.392323,13.375 -13.90625,13.375 -7.513927,0 -13.611364,-5.933908 -13.90625,-13.375 z"
        id="path3724"

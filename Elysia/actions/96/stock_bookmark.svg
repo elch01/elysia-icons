@@ -2,13 +2,35 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    version="1.0"
    width="96"
    height="96"
-   id="svg2408">
+   id="svg2408"
+   sodipodi:docname="bookmarks.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="10.177083"
+     inkscape:cx="47.95087"
+     inkscape:cy="48"
+     inkscape:window-width="1990"
+     inkscape:window-height="1223"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2408" />
   <defs
      id="defs2410">
     <linearGradient
@@ -52,7 +74,11 @@
     </linearGradient>
     <filter
        color-interpolation-filters="sRGB"
-       id="filter3208">
+       id="filter3208"
+       x="-0.084972969"
+       y="-0.033446807"
+       width="1.1699459"
+       height="1.0668936">
       <feGaussianBlur
          stdDeviation="1.31"
          id="feGaussianBlur3210" />
@@ -122,7 +148,7 @@
        gradientTransform="translate(0,12)" />
     <filter
        x="-0.29508197"
-       y="-0.46153846"
+       y="-0.46153845"
        width="1.5901639"
        height="1.9230769"
        color-interpolation-filters="sRGB"
@@ -133,7 +159,11 @@
     </filter>
     <filter
        color-interpolation-filters="sRGB"
-       id="filter3174">
+       id="filter3174"
+       x="-0.047720931"
+       y="-0.049328639"
+       width="1.0954419"
+       height="1.0986573">
       <feGaussianBlur
          id="feGaussianBlur3176"
          stdDeviation="1.71" />
@@ -369,4 +399,11 @@
        id="path3177"
        style="fill:url(#linearGradient2600);fill-opacity:1;stroke:none;display:inline" />
   </g>
+  <rect
+     style="fill:#000000"
+     id="rect1"
+     width="1.0808598"
+     height="1.1250001"
+     x="-15.819857"
+     y="6" />
 </svg>

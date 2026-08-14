@@ -1,6 +1,6 @@
 [Icon Theme]
 Name=Elysia-Sand
-Inherits=Elysia,Adwaita,gnome,hicolor
+Inherits=Elysia,Adwaita,hicolor
 Comment=Icons worthy of Elysium
 Directories=places/16,places/22,places/24,places/32,places/48,places/128
 
