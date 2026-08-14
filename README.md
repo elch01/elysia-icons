@@ -10,6 +10,9 @@
 
 Elysia Icons is a skeuomorphic style icon theme forked from the Mint-X Icons.
 
+> [!TIP]
+> Now with KDE support!
+
 It continues the evolution of classic Linux desktop icon themes from:
 
 - Mint-X Icons
