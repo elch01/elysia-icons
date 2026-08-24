@@ -1,10 +1,12 @@
 [Icon Theme]
 Name=Elysia-Teal
-Inherits=Elysia,Adwaita,hicolor
+Inherits=Elysia,hicolor
 Comment=Icons worthy of Elysium
 Directories=places/16,places/22,places/24,places/32,places/48,places/128
 
 Example=directory-x-normal
+
+FollowsColorScheme=true
 
 [places/16]
 Size=16
